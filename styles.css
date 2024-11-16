@@ -1,0 +1,49 @@
+* {
+    max-width: 600px; /* Para limitar el ancho de todos los elementos */
+    margin: 0 auto;   /* Centrar los elementos */
+}
+
+body {
+    background-color: #ADD8E6; /* Fondo de la pagina web color Azul */
+    color: #333333; /* Color del texto */
+    font-family: Arial; /* Fuente del texto */
+    text-align: justify; /* Texto justificado */
+    padding: 20px; /* Agrega un poco de espacio alrededor del contenido */
+}
+
+/* Estilo para imágenes */
+img {
+    max-width: 300px; /* Limita el ancho máximo las imágenes */
+    margin: 0 auto;   /* Centra las imágenes */
+    display: block;   /* Asegura que las imágenes se comporten como bloques para centrar */
+}
+
+/* Estilo para botones */
+.boton {
+    display: inline-block; /* Hace que el enlace sea un bloque en línea */
+    background-color: #4C6EF5; /* Color de fondo del botón */
+    color: white; /* Color del texto */
+    padding: 10px 20px; /* Espaciado dentro del botón */
+    text-align: center; /* Centra el texto */
+    text-decoration: none; /* Elimina el subrayado del enlace */
+    border-radius: 5px; /* Bordes redondeados */
+    font-size: 16px; /* Tamaño de la fuente */
+    transition: background-color 0.3s ease; /* Animación al pasar el mouse */
+}
+
+/* Efecto cuando el mouse pasa por encima del botón */
+.boton:hover {
+    background-color: #7398F8; /* Cambia el color de fondo cuando se pasa el ratón de un azul fuerte a un azul más claro */
+}
+
+/* Estilo para enlaces en la barra de navegación */
+nav a {
+    margin: 0 15px; /* Espaciado entre enlaces */
+    text-decoration: none; /* Elimina subrayados */
+    color: #333; /* Color del texto */
+    font-weight: bold; /* Texto en negrita para resaltar */
+}
+
+nav a:hover {
+    color: #7398F8; /* Color del texto al pasar el mouse */
+}
