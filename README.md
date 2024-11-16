@@ -19,15 +19,12 @@ Este proyecto es una página web informativa sobre la serie *Arcane* de Netflix.
 
 Para que puedas ver la página, copia y pega el siguiente enlace en tu navegador:
 
-
-   bash
-   git clone https://github.com/tu_usuario/tu_repositorio.git
+    https://espinosamonica.github.io/1WEBL-PROYECTO-FINAL/
 
 ## Autora:
 
 En el siguiente link encontraras en enlace hacia mi GitHub
 
- bash
-   git clone https://github.com/tu_usuario/tu_repositorio.git
+   https://github.com/EspinosaMonica
 
 ¡Si te gusta el proyecto, no dudes en contactarme!
