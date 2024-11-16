@@ -1,6 +1,6 @@
 # Proyecto Final: Página de Arcane
 
-Este proyecto es una página web informativa sobre la serie *Arcane* de Netflix. En ella se presentan detalles sobre la temporada 2 de la serie, sus personajes principales y otros personajes importantes del universo de League of Legends. Además, contiene enlaces para ver la serie en Netflix y descargar el juego League of Legends.
+Este proyecto es una página web informativa sobre la serie *Arcane* de Netflix. En ella se presentan detalles sobre la temporada 2 de la serie, sus personajes principales y otros personajes importantes del mismo universo. Además, contiene enlaces para ver la serie en Netflix y descargar el juego League of Legends.
 
 ## Características
 
